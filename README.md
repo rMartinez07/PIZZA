@@ -2,17 +2,17 @@
 
 Este proyecto simula tres pizzas, cada una dividida en rebanadas utilizando diferentes algoritmos de generación de líneas:
 
-- 🎯 Punto-Pendiente
-- 📐 DDA (Digital Differential Analyzer)
-- 🎮 Bresenham
+- Punto-Pendiente
+- DDA (Digital Differential Analyzer)
+- Bresenham
 
-## 🧩 Cómo usar
+## Cómo usar
 
 1. Abre `index.html` en tu navegador (doble clic).
 2. Ingresa el número de rebanadas en el input.
 3. Haz clic en "Generar pizzas".
 
-## 🚀 Cómo subir a GitHub
+## Cómo subir a GitHub
 
 ```bash
 git init
